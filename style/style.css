@@ -1,3 +1,467 @@
-h1{
+/* font link  */
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* *** Stert *** section banner  */
+
+.banner-section{
+    background-image: url("../images/Banner-Image.png");
+    width: 1320px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;  
+}
+ 
+.banner-article{
+    text-align: center;
+    position: relative;
+    top: 230px;
+    background-color: #07021123;
+    
+   
+}  
+#banner-p1{
+    font-size: 30px;
+    margin: 0px;
+    padding: 0px;
+    color: azure;
+}
+#banner-p2{
+    font-size: 55px;
+    margin: 0px;
+    padding: 0px;
+    color: azure;
+}
+#banner-p3{
+    font-size: 55px;
+    margin: 0px;
+    padding: 0px;
+    color: azure;
+}
+
+
+/**** End section *** */
+/**** End section *** */
+
+
+ /* Stert section 65 % Off  */
+ /* ================ */
+ /* ================= */
+ 
+ .section-2{
+    width: 802px;
+    height: 806px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+#off{
+    font-size:80px;
+    text-align: center;
+    padding-top: 40px;
+    color: rgb(213, 46, 46);
+    margin: 0px;
+}
+#our-holy{
+    text-align: center;
+    margin-bottom: 0px;
+    color: rgba(241, 58, 58, 0.869);
+}
+#all-cate{
+    text-align: center;
+    font-size: 26px;
+    margin: 5px;
+    
+}
+#new-year-img{
+    padding-top: 25px;
+}
+
+/**** End section *** */
+/**** End section *** */
+
+/* ** Stert *** section weell come to idnight party */
+/* ====================== */
+/* ========================= */
+
+
+.well-come{
+    width: 1320px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    background-image: url("../images/Vectorrr.png");
+    
+}
+.well-mother{
+    display: flex;
+}
+.well-div-mother{
+    position: relative;
+    left: 120px;
+    top: 100px;
+    padding-right: 150px;
+    
+
+}
+#well-h1{
+    font-size: 50px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#well-p{
+    color: white;
+    font-size: 16px;
+
+}
+#well-button{
+    margin-top: 40px;
+    background:none;
+    color: white;
+    font-size: 1.2em;
+    border: none;
+}
+.well-img{
+    position: relative;
+    left: 40px;
+    top: 90px;
+}
+
+/**** End section *** */
+/**** End section *** */
+
+/* Stert ***section place hotel date and time  */
+/* ===================================== */
+/* =====================================
+====================================*/
+
+
+.hotel-place{
+    width: 1320px;
+    height: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(rgb(250, 226, 226),white);
+    margin-top: 60px;
+    border-radius: 15px;
+}
+
+span{
     color: red;
 }
+.hotel-div{
+    padding-top: 100px ;
+    text-align: center;
+    font-size: 1.5em;
+}
+.hotel-h1{
+    margin: 8px;
+}
+
+#hotel-button{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 5px 30px;
+    color: white;
+    border: none;
+    background-color: red;
+    border-radius: 10PX ;
+    margin-top: 40px;
+}
+
+/**** End section *** */
+/**** End section *** */
+
+/* ** Stert ** section best offer  */
+.new-section{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1320px;
+    height: 463px;
+    margin-top: 100px;
+
+}
+
+.best-offer-div{
+    display:flex;
+    gap: 70px;
+   
+    
+}
+
+.new-best-div{
+    margin-top: 90px;
+}
+
+.h3-color{
+    color: red;
+}
+.coming{
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0px;
+}
+
+
+#img{
+    padding: 30px;
+}
+
+.div-ellipse{
+    
+    padding-right: 50px;
+}
+.ellipse-img{
+    border: 18px solid red;
+    border-radius: 300px 300px;
+    width: 365px;
+    
+    
+}
+
+.div-2024{
+    margin-top: 40px;
+   
+}
+
+
+.h1-2024{
+    color: red;
+    font-size: 3em;
+    font-weight:bold;
+    margin-bottom: 0px;
+
+
+}
+#happy-img{
+    margin-top: 40px;
+}
+
+/**** End section *** */
+/**** End section *** */
+
+/* ** Stert ** section holyday  */
+
+.holyday-section{
+    width: 1320px;
+    height: 757px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 100px;
+}
+.holy-div{
+    text-align: center;
+}
+#holy-what{
+    font-size: 24px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+#holyday-h1{
+    font-size: 72px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 28px;
+    margin-top: 0px;
+    padding: 0px;
+}
+#holy-p{
+    padding-left: 266px;
+    padding-right: 266px;
+}
+.img-50{
+    position: absolute;
+    left: 736px;
+    top: 309px;
+}
+.img-lady{
+    position: relative;
+    left: 892px;
+    top: 7px;
+}
+.img-gift{
+    position: absolute;
+    top: 250px;
+    bottom: 0px;
+}
+.img-red{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    right: 0px;
+    
+}
+
+
+/**** End section *** */
+/**** End section *** */
+
+/* ** Stert ** the best offer section  */
+
+.best-section{
+    width: 1320px;
+    height: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+}
+#best-h4{
+    color: red;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0;
+}
+#best-h1{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    margin: 0;
+}
+#best-p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-right: 35%;
+}
+
+.img{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    
+}
+.img-size{
+    width: 420px;
+    height: 445px;
+}
+
+/**** End section *** */
+/**** End section *** */
+
+/* ** Stert ** Subscribe Newsletter section  */
+
+.Subscribe-section{
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05); 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.parent-div{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.subs-h1{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0px;
+    padding: 0px;
+}
+
+#subs-p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.search-box{
+    width: 648px;
+    height: 72px;
+    border-radius: 50px;
+    background: #FFF;
+    position: relative;
+    left:350px;
+    top: 80px;
+}
+#sear-box-p{
+    color: rgba(7, 2, 17, 0.30);
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 18px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.subscribe-box{
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    position: relative;
+    left:782px;
+    top: -12px;
+}
+#sub-box-p{
+    color: #FFF; 
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 18px;
+}
+
+
+/**** End section *** */
+/**** End section *** */
+
+/* ** Stert ** Footer  */
+/* ** Stert ** Footer  */
+
+
+footer{
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    color: white;
+}
+.footer-big-div{
+    display: flex;
+    gap: 500px;
+    width: 1600px;
+    height: 203px;
+    text-align: center;
+    align-items: center;
+}
+.img-call{
+    display: inline;
+    padding-left: 5px;
+}
+.img-div-footer{
+    width: 300px;
+    margin-left: 150px;
+    align-items: center;
+    text-align: center;
+}
+.images-div{
+    width: 1600px;
+    height: 203px;
+    text-align: center;
+   
+}
+.images-w-h{
+    width: 64px;
+    height: 64px;
+    margin-top: 70px;
+    padding-left:24px ;
+}
+.footer-end-div{
+    display: flex;
+    gap: 900px;
+    margin-left: 180px;
+    margin-top: 80px;
+    
+}
+
+/**** End section *** */
+/**** End section *** */
